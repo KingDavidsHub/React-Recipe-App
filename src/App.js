@@ -8,6 +8,7 @@ const  App = () => {
   return (
     <div className="App">
       <TopNav/>  
+      <p>{name}</p>
     </div>
   );
 }
